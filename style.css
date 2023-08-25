@@ -1,0 +1,82 @@
+
+
+.logo{
+    
+    height: 250px;
+    width: 250px;
+    
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+
+.footer{
+    font-family: "Tsukimi Rounded";
+    padding: 10px;
+    text-align: center;
+    background-color: #0E6251;
+    color:white
+     }
+
+.container{
+    margin-bottom: 30px;
+}
+
+a{
+    text-decoration: none;
+    color:black
+}
+
+a:hover{
+    text-decoration: none;
+    color:black
+}
+
+
+.carrusel{
+    margin:30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.container{
+    font-family: "Tsukimi Rounded";
+    background-color: rgba(14, 98, 81, 0.5);
+    color:white;
+    margin:5rem;
+}
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+
+
+
